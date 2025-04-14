@@ -7,5 +7,11 @@
   },
   "author": "",
   "license": "ISC",
-  "description": ""
+  "description": "",
+  "dependencies": {
+    "net": "^1.0.2",
+    "poplib": "^0.1.7",
+    "tls": "^0.0.1",
+    "yapople": "^0.4.10"
+  }
 }
